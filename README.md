@@ -34,11 +34,6 @@ npm install
 npm run dev
 
 
-📸 Screenshots
-
-<img width="1663" height="792" alt="Screenshot 2026-03-20 100113" src="https://github.com/user-attachments/assets/396811f6-749b-433e-8aab-521794f0ebb4" />
-
-
 
 
 💡 Learnings
