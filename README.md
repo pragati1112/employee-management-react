@@ -1,16 +1,56 @@
-# React + Vite
+# 👩‍💼 Employee Management System (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Project Overview
+The Employee Management System is a web application that allows users to manage employee details. It supports full CRUD operations (Create, Read, Update, Delete) and stores data using browser localStorage.
 
-Currently, two official plugins are available:
+## 🎯 Features
+- ➕ Add Employee
+- 📋 View Employee List
+- ✏️ Update Employee
+- 🗑️ Delete Employee
+- 💾 Data stored in localStorage (persistent after refresh)
+- 🎨 Clean UI with Bootstrap
+- 🔍 Icons for better user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- ⚛️ React.js (Vite)
+- 🎨 Bootstrap
+- 🧠 useState & useEffect (State Management)
+- 💾 localStorage
 
-## React Compiler
+## 📂 Folder Structure
+src/
+├── components/
+│ └── Employee.jsx
+├── App.jsx
+├── main.jsx
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Installation & Setup
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/YOUR_USERNAME/employee-management-react.git
+cd employee-management-react
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+📸 Screenshots
+
+<img width="1663" height="792" alt="Screenshot 2026-03-20 100113" src="https://github.com/user-attachments/assets/396811f6-749b-433e-8aab-521794f0ebb4" />
+
+
+
+
+💡 Learnings
+
+CRUD operations in React
+
+State management using hooks
+
+Working with localStorage
+
+Component-based architecture
+
+🙋‍♀️ Author
+
+Pragati Ahir
