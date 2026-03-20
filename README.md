@@ -5,7 +5,7 @@
 
 ## 📸 Screenshots
 
-![Form UI](./assets/form.png)
+![Form UI](./assets/screenshot)
 
 ## 🚀 Project Overview
 The Employee Management System is a web application that allows users to manage employee details. It supports full CRUD operations (Create, Read, Update, Delete) and stores data using browser localStorage.
